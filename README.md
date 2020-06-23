@@ -3,7 +3,7 @@
 <ul>
   <li>Analyzed and performed EDA on customer transaction data.</li>
   <li>From transaction data, RFM score is calculated for each customer.</li>
-  <li>Catagorized the customers based on their RFM scores.</li>
+  <li>Categorized the customers based on their RFM scores.</li>
   <li>Customer clusters are formed based on R, F and, M values using K-Means Algorithm.</li>
 </ul>
 
