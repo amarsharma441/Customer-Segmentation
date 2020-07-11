@@ -8,11 +8,15 @@
 </ul>
 
 ![](https://github.com/amarsharma441/Customer-Segmentation/blob/master/Images/RFM.PNG)
+
 <br>
+
 ![](https://github.com/amarsharma441/Customer-Segmentation/blob/master/Images/clusters.PNG)
+
 <br>
+
 ## :boy: Owner ##
-Made with :heart:&nbsp;  by [Amar Sharma](https://github.com/amarsharma441)
+Made with :heart:&nbsp;  by [Amar Sharma](https://www.linkedin.com/in/amarsharma441)
 
 ## :copyright: License ##
 MIT © [License](https://github.com/amarsharma441/Customer-Segmentation/blob/master/LICENSE)
